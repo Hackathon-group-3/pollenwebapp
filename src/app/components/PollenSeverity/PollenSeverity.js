@@ -65,7 +65,7 @@ export default function PollenSeverity({
         </div>
         <div
           className={styles.summary}
-          style={{ marginTop: "8rem", padding: "1.5rem", borderRadius: "10px" }}
+          style={{ marginTop: "3rem", padding: "1.5rem", borderRadius: "10px" }}
         >
           <p>
             <strong> Main Allergens: </strong> {todaysForecast}
